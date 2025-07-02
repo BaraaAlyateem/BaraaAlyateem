@@ -11,3 +11,6 @@
 - 👌 any tips & tricks are appreciated 
 - ⚡ Fun fact about me: intrested in _zoom photography_ and _animal facts_
 
+<div align="center">
+  <img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="200" alt="Data">
+</div>
